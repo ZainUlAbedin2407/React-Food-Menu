@@ -61,7 +61,7 @@ Welcome to the **React Food Menu App** – a simple and visually appealing food 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/react-food-menu.git
+git clone https://github.com/ZainUlAbedin2407/React-Food-Menu
 
 # 2. Move into the project directory
 cd react-food-menu
@@ -97,6 +97,6 @@ The app will now be running on `http://localhost:5173/` (if using Vite) or `http
 
 ## 🌐 Live Site
 
-🌍 [Visit Live Project](https://your-live-site-link.com) 
+🌍 [Visit Live Project](https://react-food-menu-five.vercel.app/) 
 
 ---
