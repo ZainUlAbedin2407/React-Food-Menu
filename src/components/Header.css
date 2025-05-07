@@ -1,0 +1,13 @@
+/* Header Styling */
+header h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #00707c;
+  font-size: 40px;
+}
+
+header p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+}

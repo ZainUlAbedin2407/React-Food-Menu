@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  gap: 10px;
+  padding: 20px 0;
+}
+
+@media screen and (max-width: 321px) {
+  nav {
+    gap: 0px;
+    justify-content: space-between;
+  }
+}
+
+nav button {
+  background-color: #00707c;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+nav button:hover {
+  background-color: #015c66;
+}
